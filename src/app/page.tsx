@@ -27,7 +27,7 @@ const Home = () => {
         </a>
         
         {/* WhatsApp Contact Button */}
-        <Link href="https://wa.me/21692708705" target="_blank"
+        <Link href="https://wa.me/21624710702" target="_blank"
               className="w-full bg-gray-800 hover:bg-gray-900 text-white text-center py-3 rounded-xl shadow-md transition duration-300">
           💬 Contact on WhatsApp
         </Link>
